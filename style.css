@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#viewDiv,
+#tableDiv {
+  height: 50%;
+}
+
+#infoDiv {
+  padding: 10px;
+  width: 275px;
+}
+
+.esri-button-active {
+  background-color: #242424 !important;
+  color: white !important;
+}
